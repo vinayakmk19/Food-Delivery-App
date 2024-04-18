@@ -34,7 +34,7 @@ const LoginPopUp = ({ setShowLogin }) => {
           </p>
         ) : (
           <p>
-            {" "}
+             
             already have an account ? <span onClick={()=> setCurrState("Login")}>login here</span>
           </p>
         )}
