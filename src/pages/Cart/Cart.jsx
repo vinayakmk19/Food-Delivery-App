@@ -23,7 +23,7 @@ const Cart = () => {
         <hr />
 
         {food_list.map((item, index) => {
-          console.log(item);
+          // console.log(item);
           if (cartItems[item._id] > 0) {
             return (
               <>
@@ -45,7 +45,7 @@ const Cart = () => {
       </div>
       <div className="cart-bottom">
         <div className="cart-total">
-          <h2>Cart TOtals</h2>
+          <h2>Cart Totals</h2>
           <div>
             <div className="cart-total-details">
               <p>Sub Total</p>
