@@ -25,6 +25,7 @@ A modern, full-stack food delivery application built using the MERN stack. This 
    cd Food-Delivery-App
 
 2. **Install Dependencies:**
+   - **Frontend:**
    ```bash
    cd frontend
    npm install
