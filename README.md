@@ -28,9 +28,9 @@ A modern, full-stack food delivery application built using the MERN stack. This 
    - **Frontend:**
    ```bash
    cd frontend
-   npm install
+   npm install ```
 
-   - **Backend:**
+   - **Frontend:**
    ```bash
    cd ../backend
    npm install
@@ -44,5 +44,5 @@ A modern, full-stack food delivery application built using the MERN stack. This 
 4. **Run the Application:**
    - **backend:**
    ```bash
-   git clone https://github.com/vinayakmk19/Food-Delivery-App.git
-   cd Food-Delivery-App
+   cd backend
+   npm start
