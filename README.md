@@ -29,3 +29,20 @@ A modern, full-stack food delivery application built using the MERN stack. This 
    ```bash
    cd frontend
    npm install
+
+   - **Backend:**
+   ```bash
+   cd ../backend
+   npm install
+
+3. **Environment Variables:**
+   - Create a .env file in the backend directory with the following variables:**
+   ```makefile
+   MONGO_URI=your_mongodb_uri
+   JWT_SECRET=your_jwt_secret
+
+4. **Run the Application:**
+   - **backend:**
+   ```bash
+   git clone https://github.com/vinayakmk19/Food-Delivery-App.git
+   cd Food-Delivery-App
