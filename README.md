@@ -23,3 +23,8 @@ A modern, full-stack food delivery application built using the MERN stack. This 
    ```bash
    git clone https://github.com/vinayakmk19/Food-Delivery-App.git
    cd Food-Delivery-App
+
+2. **Install Dependencies:**
+   ```bash
+   cd frontend
+   npm install
